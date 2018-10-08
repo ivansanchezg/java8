@@ -6,12 +6,16 @@ For more details check the content of each class: `LambdaFilter`, `LambdaForEach
 
 ## Compile
 
+From root directory `java8`
+
 ```
-javac src/com/ivansanchezg/*/*.java
+javac lambdas/src/com/ivansanchezg/*/*.java
 ```
 
 ## Run
 
+From root directory `java8`
+
 ```
-java -cp src com.ivansanchezg.main.App
+java -cp lambdas/src com.ivansanchezg.main.App
 ```
